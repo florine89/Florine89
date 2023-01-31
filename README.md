@@ -1,7 +1,7 @@
 # FlorineFerreira
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/114070434/215748013-85f2da57-15e1-4e84-9974-d5a3b678de40.JPG" alt="Florine Ferreira" height="200" style="margin-right: 20px"/>    
+   <img src="https://user-images.githubusercontent.com/114070434/215748013-85f2da57-15e1-4e84-9974-d5a3b678de40.JPG" alt="Florine Ferreira" height="195" style="margin-right: 20px"/>    
   <img src="https://github-readme-stats.vercel.app/api/?username=florine89&count_private=true&theme=tokyonight&showicons=true)]()" alt="Github Stats" />
    
 </p>
@@ -12,8 +12,6 @@
 
 ## Hello there ! <img src="https://img.icons8.com/external-ddara-flat-ddara/64/null/external-woman-hello-hand-gesture-officer-teacher-uniform-user-avatar-ddara-flat-ddara.png" height="30" />
 
-
- 
   Welcome to my profile !  
   
   
