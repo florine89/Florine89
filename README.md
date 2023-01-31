@@ -11,9 +11,13 @@
 
 
 ## Hello there ! <img src="https://img.icons8.com/external-ddara-flat-ddara/64/null/external-woman-hello-hand-gesture-officer-teacher-uniform-user-avatar-ddara-flat-ddara.png" height="30" />
+
+
  
-  Welcome to my profile ! <br>
-  I'm Florine, and I'm living in <b>Paris, France</b> <img src="https://img.icons8.com/color/48/null/france-circular.png" height="20"/>. <br>
+  Welcome to my profile !  
+  
+  
+  I'm Florine, and I'm living in <b>Paris, France</b> <img src="https://img.icons8.com/color/48/null/france-circular.png" height="20"/>   
   Developper Full-Stack JavaScript ( React Js )
 </p>
 <h3>Languages and tools</h3>
