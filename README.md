@@ -14,6 +14,7 @@
  
   Welcome to my profile ! <br>
   I'm Florine, and I'm living in <b>Paris, France</b> <img src="https://img.icons8.com/color/48/null/france-circular.png" height="20"/>. <br>
+  Developper Full-Stack JavaScript ( React Js )
 </p>
 <h3>Languages and tools</h3>
 <p>
