@@ -1,3 +1,33 @@
 # FlorineFerreira
 
-<a target="_blank" href="https://icons8.com/icon/Zy5ghkQj2rKy/done">Done icon by Icons8</a>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/114070434/215748013-85f2da57-15e1-4e84-9974-d5a3b678de40.JPG" alt="Florine Ferreira" height="200" style="margin-right: 20px"/>    
+  <img src="https://github-readme-stats.vercel.app/api/?username=florine89&count_private=true&theme=tokyonight&showicons=true)]()" alt="Github Stats" />
+   
+</p>
+
+
+
+
+
+## Hello there ! <img src="https://img.icons8.com/external-ddara-flat-ddara/64/null/external-woman-hello-hand-gesture-officer-teacher-uniform-user-avatar-ddara-flat-ddara.png" height="30" />
+ 
+  Welcome to my profile ! <br>
+  I'm Florine, and I'm living in <b>Paris, France</b> <img src="https://img.icons8.com/color/48/null/france-circular.png" height="20"/>. <br>
+</p>
+<h3>Languages and tools</h3>
+<p>
+  
+  <img src="https://img.icons8.com/fluency/48/null/javascript.png"/> 
+  <img src="https://img.icons8.com/office/40/null/react.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/null/redux.png"/>
+  <img src="https://img.icons8.com/color/48/null/npm.png"/>
+  <img src="https://img.icons8.com/color/48/null/git.png"/>
+  <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/null/css3.png"/>
+  <img src="https://img.icons8.com/color/48/null/mongodb.png"/>
+ 
+  <h3>Where to find me</h3>
+<p><a href="https://github.com/florine89" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="www.linkedin.com/in/florine-ferreira-a9849bbb" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
