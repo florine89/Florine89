@@ -3,8 +3,10 @@
 <p align="center">
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=florine89&count_private=true&theme=tokyonight&showicons=true)]()" alt="Github Stats" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?florine89=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
    
 </p>
+
 
 
 
